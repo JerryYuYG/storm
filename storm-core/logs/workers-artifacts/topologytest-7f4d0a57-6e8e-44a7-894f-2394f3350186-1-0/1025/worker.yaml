@@ -1,0 +1,4 @@
+worker-id: 30c2c8cd-b688-4348-91f1-e94c31247b1f
+logs.users: []
+logs.groups: []
+topology.submitter.user: ptgoetz
